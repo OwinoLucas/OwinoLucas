@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [React Burger Builder Project](https://github.com/OwinoLucas/burger_builder)
 
-- 🌱 I’m currently learning **React,Next.js,Flutter,C#**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Python,Django,Node.js,Javascript**
+- 💬 Ask me about **Python,Django,Node.js,Javascript,React and React Native**
 
 - 📫 How to reach me:
 <p align="center"> 
