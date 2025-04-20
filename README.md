@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OwinoLucas" alt="OwinoLucas" /></a> </p>
 
-- 🔭 I’m currently working on [React Burger Builder Project](https://github.com/OwinoLucas/burger_builder)
+- 🔭 I’m currently working on [Global Pet Travel Assistant](https://github.com/OwinoLucas/global_pet_travel_assistant)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Python,Django,Node.js,Javascript,React and React Native**
+- 💬 Ask me about **Python,Django,Next.js,Javascript,React and React Native**
 
 - 📫 How to reach me:
 <p align="center"> 
